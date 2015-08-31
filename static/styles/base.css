@@ -55,10 +55,12 @@ body {
 #obj-not-found {
   font-size: 4vw;
   line-height: 100vh;
+  text-align: center;
 }
 
 #obj-not-found-again {
   color: #888;
   margin-top: -10vh;
   width: 100vw;
+  text-align: center;
 }
