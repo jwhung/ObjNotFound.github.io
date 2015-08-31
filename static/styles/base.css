@@ -49,10 +49,17 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  text-align: center;
 }
 
 #obj-not-found {
   font-size: 4vw;
   line-height: 100vh;
-  text-align: center;
+}
+
+#obj-not-found-again {
+  color: #888;
+  position: absolute;
+  bottom: 10vh;
+  width: 100vw;
 }
