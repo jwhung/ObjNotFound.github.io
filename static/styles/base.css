@@ -59,7 +59,6 @@ body {
 
 #obj-not-found-again {
   color: #888;
-  position: absolute;
-  bottom: 10vh;
+  margin-top: -10vh;
   width: 100vw;
 }
