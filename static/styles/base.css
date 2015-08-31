@@ -54,13 +54,13 @@ body {
 
 #obj-not-found {
   font-size: 4vw;
-  line-height: 100vh;
+  line-height: 90vh;
   text-align: center;
 }
 
 #obj-not-found-again {
   color: #888;
   margin-top: -10vh;
-  width: 100vw;
   text-align: center;
+  margin: 0 auto;
 }
